@@ -1,7 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles/globals.css";
 import { useEffect } from "react";
-import SmoothScroll from 'smooth-scroll';
 
 function MyApp({ Component, pageProps }) {
   useEffect(() => {

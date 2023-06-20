@@ -1,7 +1,10 @@
 export default function Information() {
     return (
-      <div>
-        <p>Information</p>
-      </div>
+      <section id="information">
+        <div>
+            <p>Information</p>
+        </div>
+      </section>
+      
     );
   }
